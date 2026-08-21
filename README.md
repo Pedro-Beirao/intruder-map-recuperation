@@ -2,7 +2,7 @@
 
 This guide will show how very old [Intruder](https://intruderfps.com/) maps built with Unity 4 can be ported to work with current Intruder builds. It will go over decompilation and how to fix problems that may arise.
 
-I've ported many maps this way, with the permission of the authors.
+I've ported many maps this way, with the permission of the authors. (The images link to the workshop pages).
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 1em;">
   <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3507202767"> <img src="./images/coastline.jpg"></a>
